@@ -1,6 +1,5 @@
 # Lab-Demo
 
-
-This project is developed by Donald Trump.
+This project is developed by Yasin Sazid.
 
 I am Donald Trump.
